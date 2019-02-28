@@ -1,0 +1,2 @@
+# Titanic_MachineLearning
+Kaggle タイタニック号の生存者予測を機械学習で行う
